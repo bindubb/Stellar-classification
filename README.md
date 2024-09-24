@@ -31,6 +31,9 @@ Feel free to explore the project, run the model, and interact with the app for s
 This description captures the essence of your stellar classification project and highlights the use of machine learning and the interactive Streamlit app!
 
 
+![Screenshot (151)](https://github.com/user-attachments/assets/76e2e353-8189-4270-84ad-13f13aa38791)
+
+
 
 
 
