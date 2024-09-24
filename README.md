@@ -1,4 +1,9 @@
 # Stellar-classification
+
+
+![Screenshot (151)](https://github.com/user-attachments/assets/76e2e353-8189-4270-84ad-13f13aa38791)
+
+
 Stellar Classification Using SDSS 17 Dataset
 
 This project classifies stellar objects (stars, galaxies, and quasars) using the Sloan Digital Sky Survey (SDSS 17) dataset. The model leverages various machine learning techniques to accurately predict the class of an object based on its features.
@@ -31,7 +36,6 @@ Feel free to explore the project, run the model, and interact with the app for s
 This description captures the essence of your stellar classification project and highlights the use of machine learning and the interactive Streamlit app!
 
 
-![Screenshot (151)](https://github.com/user-attachments/assets/76e2e353-8189-4270-84ad-13f13aa38791)
 
 
 
